@@ -1,0 +1,46 @@
+body{
+
+background-color: red;
+
+display: inline;
+color: black;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+
+}
+
+
+.ttle{
+  font-size: 30px;
+}
+
+li{
+ background-color: black;
+  display: inline;
+  text-decoration: none;
+  list-style-type: none;
+  color: white;
+}
+
+ul{
+  text-decoration: none;
+  list-style-type: none;
+  color: white;
+}
+
+li a{
+  list-style-type: none; 
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+
+}
+
+li a:hover{
+
+  color:black;
+  background-color: white;
+  font-size: 18px;
+
+}
